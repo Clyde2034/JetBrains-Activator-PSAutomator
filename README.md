@@ -5,20 +5,33 @@ This activatory tool, based on JA-NetFilter, features an innovative design that 
 > :warning: **If you desire to alter the folder's designation or undertake a different task, please initiate Uninstall.exe prior to proceeding with your subsequent action.**
 
 # Support
-## Version
-Currently was successfullt for the version of 2023.2.5 
-## Product
-The activator now automatically supports IntelliJ IDEA and PyCharm. Future support for additional products will depend on the proper functioning of Ja-Netfilter.
+- Version: Currently was successfullt for the version of 2023.2.5 
+
+- Product: The activator now automatically supports IntelliJ IDEA and PyCharm. Future support for additional products will depend on the proper functioning of Ja-Netfilter.
 
 # Activation Tutorial
 Please reference the [source](#Reference)
 
 # Demonstrate
-## Activate Process
+- Activate Process
 ![Activate Demo](./activate.png)
 
-## Deactivate Process
+- Deactivate Process
 ![Deactivate Demo](./deactivate.png)
+
+- IntelliJ IDEA
+![IntelliJ IDEA](./idea.png)
 
 # Reference
 1. [https://github.com/libin9iOak/ja-netfilter-all](https://github.com/libin9iOak/ja-netfilter-all)
+
+# Disclaimer
+This software and technology are exclusively for academic and research purposes. Commercial application is expressly prohibited. The author disclaims all liability for any losses, risks, or legal disputes arising from commercial use of this software and technology.
+
+The author makes no representations or warranties of any kind, express or implied, as to the completeness, accuracy, reliability, suitability, or timeliness of this software and technology. Any reliance you place on such information is therefore strictly at your own risk. In no event will the author be liable for any loss or damage including without limitation, indirect or consequential loss or damage, arising from the use of this software and technology.
+
+The views, information, or opinions expressed within this software and technology are solely those of the authors and do not necessarily represent those of any affiliated entities.
+
+Unauthorized reverse engineering, decryption, or other forms of tampering with the software and technology are strictly prohibited. Any such unauthorized actions may be deemed as infringement or unlawful conduct, and the author reserves the right to seek legal redress for any infringement.
+
+By using this software and technology, you signify your agreement to be bound by the terms and conditions of this disclaimer. If you disagree with any part of this disclaimer, you must not use this software and technology.
