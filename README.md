@@ -5,12 +5,18 @@ This activatory tool, based on JA-NetFilter, features an innovative design that 
 > :warning: **If you desire to alter the folder's designation or undertake a different task, please initiate Uninstall.exe prior to proceeding with your subsequent action.**
 
 # Support
-- Version: Currently was successfullt for the version of 2023.2.5 
+- Version: Currently was successfully for the version of 2023.2.5 
 
 - Product: The activator now automatically supports IntelliJ IDEA and PyCharm. Future support for additional products will depend on the proper functioning of Ja-Netfilter.
 
 # Activation Tutorial
-Please reference the [source](#Reference)
+1. Move the folder to a location where it will not be altered.
+2. Run the Install.exe and enter the desired number for activation.
+3. Input the product key, the website will open upon pressing any key to exit the command line.
+4. Launch the IDEs and select Activation Code.
+5. Copy the product code from the opened site and paste it into the IDEs' activation dialog.
+6. Enjoy!
+> If you want get more info, please reference the [source](#Reference)
 
 # Demonstrate
 - Activate Process
