@@ -7,7 +7,12 @@ This activatory tool, based on JA-NetFilter, features an innovative design that 
 # Support
 - Version: Currently was successfully for the version of 2023.2.5 
 
-- Product: The activator now automatically supports IntelliJ IDEA and PyCharm. Future support for additional products will depend on the proper functioning of Ja-Netfilter.
+- Product: The activator now automatically supports IntelliJ IDEA and PyCharm. Future support for additional products will depend on the proper functioning of Ja-Netfilter
+  1. IntelliJ IDEA
+  2. PyCharm
+  3. CLion
+  4. Rider
+  5. PhpStorm
 
 # Activation Tutorial
 1. Move the folder to a location where it will not be altered.
