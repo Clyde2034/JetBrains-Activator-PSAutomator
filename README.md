@@ -5,7 +5,7 @@ This activatory tool, based on JA-NetFilter, features an innovative design that 
 > :warning: **If you desire to alter the folder's designation or undertake a different task, please initiate Uninstall.exe prior to proceeding with your subsequent action.**
 
 # Support
-- Version: Currently was successfully for the version of 2023.2.5 
+- Version: Currently was successfully for the version of 2023.3 
 
 - Product: The activator now automatically supports IntelliJ IDEA and PyCharm. Future support for additional products will depend on the proper functioning of Ja-Netfilter
   1. IntelliJ IDEA
