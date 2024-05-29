@@ -1,8 +1,10 @@
 <div align="center">
   
-  # JetBrains-Activator-PSAutomator
+  <a href="">![](logo.png)</a>
+  <br/><br/>
   <a href="">![](https://img.shields.io/badge/release-v1.0.0-blue)</a>
-  <a href="">![](https://img.shields.io/badge/start-7-yellow)</a>
+  <a href="">![](https://img.shields.io/badge/star-7-yellow)</a>
+  # JetBrains-Activator-PSAutomator
   
 </div>
 
