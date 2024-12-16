@@ -14,6 +14,10 @@ This activatory tool, based on JA-NetFilter, features an innovative design that 
 
 > :warning: **If you desire to alter the folder's designation or undertake a different task, please initiate Uninstall.exe prior to proceeding with your subsequent action.**
 
+# Donate
+<a href="https://buymeacoffee.com/asd66998855" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+
 # Support
 - Version: Currently was successfully for the version of 2023.3 
 
